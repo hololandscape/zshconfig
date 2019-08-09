@@ -4,6 +4,8 @@ This is a theme package that provides terminal embellishment for mac users. With
 
 In fact, this theme package comes from [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), which also contains other open source components. We just packaged it for installation. Thanks to the original authors of oh-my-zsh and other open source community project contributors. Give us such a good tool.
 
+![](example/example.gif)
+
 # Quick start
 
 1. Install Homebrew ( Paste that in a macOS Terminal prompt )
