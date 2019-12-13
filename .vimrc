@@ -1,5 +1,8 @@
 set nocompatible
-filetype off
+set paste
+set tabstop=4
+set shiftwidth=4
+set expandtab
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
