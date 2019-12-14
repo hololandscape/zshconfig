@@ -1,5 +1,5 @@
-#!/bin/env bash
-if [ $SHELL != '/bin/zsh'];then
+#!/usr/bin/env bash
+if [ $SHELL != '/bin/zsh' ];then
 	echo "There is no zsh in your system, check it and try again."
 	echo "Or if you default shell is not zsh,use command to change: chsh -s /bin/zsh YouName"
 	exit 1
