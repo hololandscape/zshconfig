@@ -107,3 +107,5 @@ prompt_context() {
 #git auto completion
 fpath=(~/.zsh $fpath)
 
+# solve vim can't use back space
+bindkey "^?" backward-delete-char
