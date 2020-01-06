@@ -19,7 +19,7 @@ In fact, this theme package comes from [oh-my-zsh](https://github.com/robbyrusse
    ```
 3. Clone this repo, and into folder.
    ```
-   git clone https://github.com/spring-bu/zshconfig.git
+   git clone https://github.com/G-Club/zshconfig.git
    cd zshconfig
    ```
 4. Install script.
@@ -28,6 +28,18 @@ In fact, this theme package comes from [oh-my-zsh](https://github.com/robbyrusse
    ```
 5. Open you iterm2, --> `Preferences` --> `Profiles` --> `Colors` --> click `Colors Presets` --> `Import` --> Select iterm2.itermcolors file. --> Choose your favorite theme color(I prefer atom) --> Then set as default.
 6. Navigate to the `text` tag,we need to set the font used by iterm2. setup font use `Hack Nerd Font`, finally, after setting up, re-open iterm2 and enjoy it.
+
+## For the terminal of VScode
+
+<details>
+<summary>How to set the setting in VScode</summary>
+
+* Please installed the `Hack Nerd Font` front.
+
+![](example/settings-vscode-terminal.png)
+
+</details>
+
 
 ## License
 
