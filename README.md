@@ -65,7 +65,7 @@ In fact, this theme package comes from [oh-my-zsh](https://github.com/robbyrusse
 ## For the terminal of VScode
 
 <details>
-<summary>How to set the setting in VScode</summary>
+<summary>How to set the setting in VScode on macOS or Linux</summary>
 
 * Please installed the `Hack Nerd Font` front.
 
@@ -73,6 +73,20 @@ In fact, this theme package comes from [oh-my-zsh](https://github.com/robbyrusse
 
 </details>
 
+<details>
+<summary>How to set the setting in VScode on Windows with WSL + Windows terminal</summary>
+
+* Please installed the [Hack fonts for Windows](https://github.com/source-foundry/Hack-windows-installer/releases).
+  
+**NOTE:**
+
+The fonts name is `Hack` , not `Hack Nerd`
+
+![](example/settings-vscode-terminal-win.png)
+
+![](example/windows-terminal.png) 
+
+</details>
 
 ## License
 

@@ -20,10 +20,8 @@ function install_bash(){
     if [ -f ~/.bashrc ];then
         mv ~/.bashrc ~/.bashrc_bak
         cp ./.bashrc ~/.bashrc
-        sed -i "s/root/$HOME/" ~/.bashrc
     else
         cp ./.bashrc ~/.bashrc
-        sed -i "s/root/$HOME/" ~/.bashrc
     fi	
     echo "Install oh-my-bash complete!"
 }
